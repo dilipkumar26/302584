@@ -1,17 +1,17 @@
 # Requirements
 ## Introduction
- --- Designing of calculator to perform mathematical operations using c language. 
+ --- Designing of Library Management System(LMS) to perform maintaining the database for entering new books and recording books that have been borrowed with their respective due dates using c language. 
 
 ## Research
 ![Description](Link to Pic)
-    --In general we will use calculator to perform mathematical and logical operations in our daily lives.
-    --This will be helpful in finding the accurate and exact answers from this implementation.  
+    --In general we will use Library Managaement System(LMS) to study, research, etc,.. in our daily lives.
+    --This will be helpful in finding the accurate books and resources from this implementation.  
 ## Cost and Features
 ![Description](Link to Pic)
     --Establish schedule and constraints.  
 ## Defining Our System
     -- Evaluate System for feasibility.
-    -- Perform economic and technical analysis.
+    -- Perform keep track of the books and their checkouts.
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
     -- Any user can access the program code with proper authentication.
@@ -21,25 +21,25 @@
 
 ## Who:
 
- --This application can be used by Students to find answers fast.
- --Programmers can also use this calculator application to use those methods in coding part.
+ --This application can be used by any member to find the books fast.
+ --Any member can also use this LMS application to use for projects or any else.
 
 ## What:
 
- --It will be helpful for performing some operations in calculator.
+ --It will be helpful for performing some operations like to add, remove or modify a book or book item.
 
 ## When:
 
- --The operations can be performed when you want to find accurate answer.
+ --The operations can be performed when you want to find accurate books.
 
 ## Where:
 
- --The calculator operations can be used in our daily lives,programming based and even in bussines.
+ --The Library Management System application can be used in our daily lives,programming based, research based, etc,.. and even in bussines.
 
 ## How:
 
- --It will be helpful in performing various operations like addition,subtraction,multiplication,etc.,.
- --This will give accurate results.
+ --It will be helpful in performing various operations like keep track of the books and their checkouts, as well as members’ subscriptions and profiles.
+ --This will built to handle the primary housekeeping functions of a library.
 
 # Detail requirements
 ## High Level Requirements:
