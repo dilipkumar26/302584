@@ -3,40 +3,32 @@
 * Calculator application with 4 mathematical operations
 *
 */
-#ifndef __CALCULATOR_OPERATIONS_H__
-#define __CALCULATOR_OPERATIONS_H__
+#ifndef __LMS_OPERATIONS_H__
+#define __LMS_OPERATIONS_H__
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdio_ext.h>
 #include<math.h>
 
-void add(int a,int b)
+void addbook()
 {
-	//Addition of elements
+	//Adding the books to your account
 	
 }
-void sub(int a,int b)
+void viewbook()
 {
     
-    //Subtraction of elements
+    //Viewing books in library
 }
-void mult(int a,int b)
+void issue()
 {
     
-    //Multiplication of elements
+    //Any issue about the book
 }
-void div(int a,int b)
+void ret()
 {
 
-   //Division of elements
+   //Returning of Books
    
-}
-void power(int a,int b)
-{
-    //Power value of an element
-}
-void mod(int a,int b)
-{
-    //Modulus value of two values
 }
