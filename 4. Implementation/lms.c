@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<string.h>
-#include "lms_operation.h"
+#include "lms_operations.h"
 struct book
 {
 int accno;
