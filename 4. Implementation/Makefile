@@ -1,6 +1,6 @@
 PROJECT_NAME = lms
 
-SRC =src/add.c \
+SRC =src/addbook.c \
 src/viewbook.c \
 src/issue.c \
 src/ret.c \
