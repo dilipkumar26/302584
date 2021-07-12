@@ -1,4 +1,6 @@
-#include <lms_operations.h>
+#include<stdio.h>
+#include<string.h>
+#include "../inc/lms_operations.h"
 void ret()
 {
 int bid,sid,d1,d2,dd,m1,m2,md,f,fine=20;
