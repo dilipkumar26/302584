@@ -2,10 +2,6 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<string.h>
-#include "../inc/add.h"
-#include "../inc/viewbook.h"
-#include "../inc/issue.h"
-#include "../inc/ret.h"
 struct book
 {
 int accno;
