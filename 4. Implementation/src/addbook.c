@@ -1,4 +1,6 @@
-#include <lms_operations.h>
+#include<stdio.h>
+#include<string.h>
+#include "../inc/lms_operations.h"
 void addbook()
 {
 int n,i;
