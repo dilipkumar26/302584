@@ -11,3 +11,6 @@
 
 
 [![Contribution Check - Git Inspector](https://github.com/dilipkumar26/302584/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/dilipkumar26/302584/actions/workflows/gitinspector.yml)
+
+
+[![Static Code Quality- Cppcheck](https://github.com/dilipkumar26/302584/actions/workflows/cpp.yml/badge.svg)](https://github.com/dilipkumar26/302584/actions/workflows/cpp.yml)
