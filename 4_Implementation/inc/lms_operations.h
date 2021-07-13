@@ -1,6 +1,6 @@
 /** 
-* @file calculator_operations.h
-* Calculator application with 4 mathematical operations
+* @file lms_operations.h
+* Library Management System application with 4 operations
 *
 */
 #ifndef __LMS_OPERATIONS_H__
