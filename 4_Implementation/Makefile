@@ -24,7 +24,7 @@ else
 	  EXEC = out
    endif
 endif
-TEST_SRC = test/test_record
+TEST_SRC = test/test
 
 
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
@@ -48,7 +48,7 @@ doc:
 
 test:$(TEST)
 	gcc -Iinc $(INC) $(UNI) $(SRC) $(TEST_SRC).c -o test\test_record.exe
-	./test\test_record.exe
+	./test\test.exe
 
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
